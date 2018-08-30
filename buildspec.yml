@@ -7,7 +7,7 @@ phases:
 artifacts:
   files:
     - index.html
-    - favicon.favicon
+    - favicon.ico
     - Resume_Aug2018_SteveBarron.pdf
     - styles/main.css
     - images/*
